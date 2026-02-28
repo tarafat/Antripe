@@ -4,8 +4,8 @@
 
 # Clone the repository
 
-      git clone https://github.com/your-username/your-repo-name.git
-      cd your-repo-name
+      git clone https://github.com/tarafat/Antripe.git
+      cd Antripe
 
 # Install dependencies
 
@@ -81,4 +81,4 @@ Reduces boilerplate using @riverpod
 Compile-time safety
 Better performance and testability
 Structured architecture for large applications
-"# Antripe" 
+"# Antripe"
